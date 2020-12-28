@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731426749896",
+    "firebase_url": "https://familyelectroniccontrolserver.firebaseio.com",
+    "project_id": "familyelectroniccontrolserver",
+    "storage_bucket": "familyelectroniccontrolserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731426749896:android:e76e54072bee33173814fd",
+        "android_client_info": {
+          "package_name": "com.nhunit.homecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731426749896-kfnmnid47piiqvip7436r1p2ma960h6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwuBoSzueIs4VThVOsVE4mz1KghVtX48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731426749896-kfnmnid47piiqvip7436r1p2ma960h6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
